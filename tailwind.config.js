@@ -10,13 +10,7 @@ module.exports = {
       },
     },
     fontFamily: {
-      sans: [
-        "Nunito Sans",
-        "Helvetica Neue",
-        "Helvetica",
-        "Arial",
-        "sans-serif",
-      ],
+      sans: ["Nunito Sans", "Helvetica Neue", "Helvetica", "Arial", "sans-serif"],
     },
   },
   variants: {
