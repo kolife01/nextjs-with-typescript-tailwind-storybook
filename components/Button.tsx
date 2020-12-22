@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 
 export interface ButtonProps {
   primary?: boolean;
   backgroundColor?: string;
-  size?: 'small' | 'medium' | 'large';
+  size?: "small" | "medium" | "large";
   label: string;
   onClick?: () => void;
 }
