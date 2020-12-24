@@ -11,7 +11,6 @@ The project contains main library with minimum config files below
 - ESLint
 - Prettier
 - husky
-- VS
 
 ## Installation
 
